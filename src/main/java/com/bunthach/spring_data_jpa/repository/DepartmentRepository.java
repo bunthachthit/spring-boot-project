@@ -1,0 +1,1 @@
+package com.bunthach.spring_data_jpa.repository;import com.bunthach.spring_data_jpa.model.Department;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.stereotype.Repository;@Repositorypublic interface DepartmentRepository extends JpaRepository<Department, Integer> {}

@@ -1,0 +1,1 @@
+package com.bunthach.spring_data_jpa.mapper;import org.springframework.stereotype.Service;@Servicepublic class CustomerMapper {}

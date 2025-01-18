@@ -1,0 +1,1 @@
+package com.bunthach.spring_data_jpa.service;import com.bunthach.spring_data_jpa.dto.EmployeeRequest;import com.bunthach.spring_data_jpa.model.Employee;import org.springframework.stereotype.Service;@Servicepublic interface EmployeeService {    Employee addEmployee(EmployeeRequest request);}

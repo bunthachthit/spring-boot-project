@@ -1,0 +1,1 @@
+package com.bunthach.spring_data_jpa.model;public enum EmployeeRole {    EMPLOYEE, ADMIN, HR, USER}
